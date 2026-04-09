@@ -1,0 +1,232 @@
+[
+  {
+    "symbol": "TSM",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 290.7300109863281,
+    "pred_5d_price": 294.1847634893828,
+    "pred_10d_price": 309.3377697212314,
+    "news": [
+      "- Intel stock jumps as Q3 earnings beat expectations, AI drives chip demand ([link](https://finance.yahoo.com/news/intel-stock-jumps-as-q3-earnings-beat-expectations-ai-drives-chip-demand-201344592.html))",
+      "- The Best Stocks to Invest $1,000 In Right Now ([link](/news/202673/the-best-stocks-to-invest-1000-in-right-now))",
+      "- Intel Q3 earnings set to test stock's rally amid Nvidia, US government investments ([link](https://finance.yahoo.com/news/intel-q3-earnings-set-to-test-stocks-rally-amid-nvidia-us-government-investments-150922622.html))",
+      "- Intel Q3 earnings beat Wall Street estimates but Q4 outlook falls short ([link](https://finance.yahoo.com/news/intel-q3-earnings-beat-wall-street-estimates-but-q4-outlook-falls-short-150922457.html))",
+      "- What Is One of the Best Artificial Intelligence (AI) Stocks to Buy Right Now? ([link](/news/201829/what-is-one-of-the-best-artificial-intelligence-ai-stocks-to-buy-right-now))"
+    ],
+    "risk": {
+      "VaR1d95": 4.61,
+      "Volatility": 47.5,
+      "Beta": 2.68,
+      "RiskScore": 0.77,
+      "RiskLevel": "High",
+      "InvestmentAdvice": "Not Best: High volatility and risk",
+      "Explanation": "TSM's RiskLevel is High with a VaR of 4.61%, a volatility of 47.5%, and a Beta of 2.68, reflecting substantial risk exposure, hence the InvestmentAdvice of Not Best: High volatility and risk."
+    }
+  },
+  {
+    "symbol": "ORCL",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 280.07000732421875,
+    "pred_5d_price": 281.1376484254486,
+    "pred_10d_price": 285.12458415835533,
+    "news": [
+      "- Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year ([link](https://finance.yahoo.com/m/fde91597-c2ad-3dbf-a423-4d0acc661d47/microsoft-%28nasdaq%3A-msft%29.html))",
+      "- Analyst Explains What 'Caught' His Attention About Oracle (ORCL)- 'Late-90s Kind of Vibes' ([link](/news/202187/analyst-explains-what-caught-his-attention-about-oracle-orcl-late-90s-kind-of-vibes))",
+      "- The Zacks Analyst Blog Highlights Oracle, Toyota Motor and Morgan Stanley ([link](/news/202385/the-zacks-analyst-blog-highlights-oracle-toyota-motor-and-morgan-stanley))",
+      "- Bear of the Day: Eos Energy Enterprises (EOSE) ([link](/news/202326/bear-of-the-day-eos-energy-enterprises-eose))",
+      "- Is Oracle's AI Rally Over? Wall Street Thinks ORCL Could Hit $400 ([link](/news/202096/is-oracles-ai-rally-over-wall-street-thinks-orcl-could-hit-400))"
+    ],
+    "risk": {
+      "VaR1d95": 5.73,
+      "Volatility": 48.9,
+      "Beta": 0.76,
+      "RiskScore": 0.77,
+      "RiskLevel": "High",
+      "InvestmentAdvice": "Not Best: High volatility and risk",
+      "Explanation": "ORCL's RiskLevel is High due to a VaR of 5.73%, a volatility of 48.9%, and a Beta of 0.76, indicating high risk despite lower market correlation, resulting in the InvestmentAdvice of Not Best: High volatility and risk."
+    }
+  },
+  {
+    "symbol": "ABBV",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 228.25,
+    "pred_5d_price": 225.17135769903356,
+    "pred_10d_price": 232.06905419423234,
+    "news": [
+      "- 3 Pharmaceutical Growth Stocks to Buy and Hold for 10 Years ([link](/news/202564/3-pharmaceutical-growth-stocks-to-buy-and-hold-for-10-years))",
+      "- AbbVie: Navigating Challenges and Seizing Opportunities in the Pharma Sector ([link](/news/201373/abbvie-navigating-challenges-and-seizing-opportunities-in-the-pharma-sector))",
+      "- AbbVie (ABBV) Sees a More Significant Dip Than Broader Market: Some Facts to Know ([link](/news/201261/abbvie-abbv-sees-a-more-significant-dip-than-broader-market-some-facts-to-know))",
+      "- Analyst Says He Likes AbbVie (ABBV) Amid 'Attractive' Valuation ([link](/news/200880/analyst-says-he-likes-abbvie-abbv-amid-attractive-valuation))",
+      "- AbbVie Inc. (ABBV): A Bull Case Theory ([link](/news/200803/abbvie-inc-abbv-a-bull-case-theory))"
+    ],
+    "risk": {
+      "VaR1d95": 2.83,
+      "Volatility": 28.4,
+      "Beta": 0.35,
+      "RiskScore": 0.17,
+      "RiskLevel": "Medium",
+      "InvestmentAdvice": "Best for moderate-risk portfolios",
+      "Explanation": "ABBV has a Medium RiskLevel with a VaR of 2.83%, a lower volatility of 28.4%, and a Beta of 0.35, suggesting moderate risk, making it Best for moderate-risk portfolios."
+    }
+  },
+  {
+    "symbol": "SONY",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 28.709999084472656,
+    "pred_5d_price": 28.486282697033516,
+    "pred_10d_price": 28.238253238270683,
+    "news": [
+      "- Will Xbox Content Strength Continue to Lift MSFT's Gaming Revenues? ([link](/news/202789/will-xbox-content-strength-continue-to-lift-msfts-gaming-revenues))",
+      "- 2 Tech Stocks You Can Buy and Hold for the Next Decade ([link](/news/202061/2-tech-stocks-you-can-buy-and-hold-for-the-next-decade))",
+      "- CFRA Raises Sony (SONY) Price Target Amid Optimism Over Japan's New Prime Minister ([link](/news/197127/cfra-raises-sony-sony-price-target-amid-optimism-over-japans-new-prime-minister))",
+      "- Top Analyst Reports for Home Depot, Boeing & Progressive ([link](/news/196602/top-analyst-reports-for-home-depot-boeing-progressive))",
+      "- Spotify says it's working to protect artists from AI abuse, but the streaming company's track record is shaky ([link](https://www.marketwatch.com/story/spotify-says-its-working-to-protect-artists-from-ai-abuse-but-the-streaming-companys-track-record-is-shaky-cf3c029b?mod=mw_FV))"
+    ],
+    "risk": {
+      "VaR1d95": 3.33,
+      "Volatility": 30.8,
+      "Beta": 1.48,
+      "RiskScore": 0.36,
+      "RiskLevel": "High",
+      "InvestmentAdvice": "Not Best: High volatility and risk",
+      "Explanation": "SONY's RiskLevel is High with a VaR of 3.33%, a volatility of 30.8%, and a Beta of 1.48, indicating significant risk, leading to the InvestmentAdvice of Not Best: High volatility and risk."
+    }
+  },
+  {
+    "symbol": "NKE",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 69.68000030517578,
+    "pred_5d_price": 69.18199098740378,
+    "pred_10d_price": 68.30724427070022,
+    "news": [
+      "- How the NIKE-SKIMS Partnership Could Spark NKE's Next Growth Wave? ([link](/news/202770/how-the-nike-skims-partnership-could-spark-nkes-next-growth-wave))",
+      "- Nike Unveils Motorized Shoes as CEO Hill Bets on Innovation ([link](https://www.barrons.com/articles/nike-motorized-shoes-ceo-innovation-dc2a3ca5?mod=bar_FV))",
+      "- The Zacks Analyst Blog Highlights lululemon athletica, NIKE and Under Armour ([link](/news/202370/the-zacks-analyst-blog-highlights-lululemon-athletica-nike-and-under-armour))",
+      "- NIKE, Inc. (NKE) is Attracting Investor Attention: Here is What You Should Know ([link](/news/202191/nike-inc-nke-is-attracting-investor-attention-here-is-what-you-should-know))",
+      "- Nike Answers Lack of Innovation Criticism With Four New Product Reveals ([link](https://finance.yahoo.com/m/dbcaafb6-9fc9-3b12-a9d3-e00ec1c2054d/nike-answers-lack-of.html))"
+    ],
+    "risk": {
+      "VaR1d95": 3.85,
+      "Volatility": 36.3,
+      "Beta": 1.71,
+      "RiskScore": 0.49,
+      "RiskLevel": "High",
+      "InvestmentAdvice": "Not Best: High volatility and risk",
+      "Explanation": "NKE's RiskLevel is High with a VaR of 3.85%, a volatility of 36.3%, and a Beta of 1.71, indicating considerable risk, hence the InvestmentAdvice of Not Best: High volatility and risk."
+    }
+  },
+  {
+    "symbol": "CRM",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 255.0500030517578,
+    "pred_5d_price": 252.36579187229555,
+    "pred_10d_price": 249.87582795957,
+    "news": [
+      "- Final Trades: Salesforce, IBM, Las Vegas Sands, Netflix ([link](https://www.youtube.com/watch?v=-G8dPTOBlpw))",
+      "- Trump Cancels San Francisco Crackdown After Benioff, Huang Calls ([link](https://finance.yahoo.com/news/trump-cancels-san-francisco-crackdown-174543000.html))",
+      "- Market Wrap- Top Stocks: Tesla, Intuitive Surgical ([link](https://finance.yahoo.com/m/996420dd-8fd4-38cd-8100-e840b5925db9/market-wrap-top-stocks%3A.html))",
+      "- Salesforce, Inc. (CRM): A Bull Case Theory ([link](/news/201404/salesforce-inc-crm-a-bull-case-theory))",
+      "- 3 Key Stocks Boosting Buybacks Amid Improving Fundamentals ([link](/news/201167/3-key-stocks-boosting-buybacks-amid-improving-fundamentals))"
+    ],
+    "risk": {
+      "VaR1d95": 3.77,
+      "Volatility": 37.5,
+      "Beta": 0.97,
+      "RiskScore": 0.43,
+      "RiskLevel": "High",
+      "InvestmentAdvice": "Not Best: High volatility and risk",
+      "Explanation": "CRM has a High RiskLevel due to a VaR of 3.77%, a volatility of 37.5%, and a Beta of 0.97, reflecting high risk exposure, resulting in the InvestmentAdvice of Not Best: High volatility and risk."
+    }
+  },
+  {
+    "symbol": "SAP",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 278.5299987792969,
+    "pred_5d_price": 275.68210718668354,
+    "pred_10d_price": 269.0985023305839,
+    "news": [
+      "- SAP Stock Falls On Revenue Miss, Weak Cloud Order Backlog ([link](https://finance.yahoo.com/m/f1226235-24e4-31b2-97ce-73601071175c/sap-stock-falls-on-revenue.html))",
+      "- SAP's Q3 Earnings Beat on Solid Top-Line Growth, 2025 Outlook Revised ([link](/news/202597/saps-q3-earnings-beat-on-solid-top-line-growth-2025-outlook-revised))",
+      "- Analyst Report: SAP SE ([link](https://finance.yahoo.com/m/1af4a4ef-8735-3d6f-840b-76074bda0a7f/analyst-report%3A-sap-se.html))",
+      "- SAP SE (SAP) Q3 2025 Earnings Call Highlights: Strong Cloud Growth Amidst Challenges ([link](https://finance.yahoo.com/news/sap-se-sap-q3-2025-030200071.html))",
+      "- SAP SE (SAP): A Bull Case Theory ([link](/news/201092/sap-se-sap-a-bull-case-theory))"
+    ],
+    "risk": {
+      "VaR1d95": 1.99,
+      "Volatility": 21.3,
+      "Beta": 1.41,
+      "RiskScore": 0.09,
+      "RiskLevel": "Low",
+      "InvestmentAdvice": "Best: Low volatility and risk",
+      "Explanation": "SAP has a Low RiskLevel with a VaR of 1.99%, a very low volatility of 21.3%, and a Beta of 1.41, indicating low risk, resulting in the InvestmentAdvice of Best: Low volatility and risk."
+    }
+  },
+  {
+    "symbol": "AAPL",
+    "lastTradedTime": "2025-10-22 00:00:00-04:00",
+    "current_price": 259.5799865722656,
+    "pred_5d_price": 263.3889346576084,
+    "pred_10d_price": 243.59268542307933,
+    "news": [
+      "- Apple Earnings Quality and Margins Exceed Forecasts Ahead of Q4 Results ([link](https://finance.yahoo.com/news/apple-earnings-quality-margins-exceed-203209797.html))",
+      "- Breakout Watch: Why Nvidia, Apple, Meta And Others Use This AI Brain ([link](https://www.investors.com/research/ibd-stock-analysis/arm-stock-nvidia-apple-meta-license-ai-fueled-technology?mod=IBD_FV))",
+      "- Who's Paying for the White House Ballroom? Billionaires, Tech Firms, and Crypto Bros. ([link](https://www.barrons.com/articles/white-house-ballroom-donors-billionaires-tech-crypto-8d4333e7?mod=bar_FV))",
+      "- Apple loses landmark \u00a31.5bn lawsuit over App Store charges ([link](https://finance.yahoo.com/m/d743e98c-16c9-3dc3-af9e-9761a7f96af5/apple-loses-landmark-%C2%A31.5bn.html))",
+      "- Apple's (AAPL) iPhone Strength and Services Growth Drive Higher Price Target From Goldman Sachs ([link](/news/202799/apples-aapl-iphone-strength-and-services-growth-drive-higher-price-target-from-goldman-sachs))"
+    ],
+    "risk": {
+      "VaR1d95": 2.28,
+      "Volatility": 22.6,
+      "Beta": 1.25,
+      "RiskScore": 0.13,
+      "RiskLevel": "Medium",
+      "InvestmentAdvice": "Best for moderate-risk portfolios",
+      "Explanation": "AAPL's Medium RiskLevel is supported by a VaR of 2.28%, a low volatility of 22.6%, and a Beta of 1.25, indicating moderate risk, hence the InvestmentAdvice of Best for moderate-risk portfolios."
+    }
+  },
+  {
+    "symbol": "TSLA",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 448.9800109863281,
+    "pred_5d_price": 453.0980338316115,
+    "pred_10d_price": 410.509526273569,
+    "news": [
+      "- Musk's $1T pay package is 'most absurd' in history: Tesla investor ([link](https://finance.yahoo.com/video/musks-1t-pay-package-most-205253150.html))",
+      "- 'Teardown Titan' Discusses Tesla's Cheaper Product Lines ([link](https://finance.yahoo.com/video/teardown-titan-discusses-teslas-cheaper-203939608.html))",
+      "- Teslas Q3, explained: shrinking margins and bigger promises ([link](https://finance.yahoo.com/m/a4cbde57-9a22-3ffb-8711-34418c794328/tesla%E2%80%99s-q3%2C-explained%3A.html))",
+      "- Stock Market Today: Dow, Nasdaq End Strong; Tesla Rebounds After Rough Start (Live Coverage) ([link](https://finance.yahoo.com/m/b3f69a70-49e9-3bef-9aca-3bc457f21690/stock-market-today%3A-dow%2C.html))",
+      "- Earnings live: Intel stock surges, Ford rises after-hours, Deckers drops ([link](https://finance.yahoo.com/news/live/earnings-live-intel-stock-surges-ford-rises-after-hours-deckers-drops-203435980.html))"
+    ],
+    "risk": {
+      "VaR1d95": 5.06,
+      "Volatility": 50.6,
+      "Beta": 2.71,
+      "RiskScore": 0.86,
+      "RiskLevel": "High",
+      "InvestmentAdvice": "Not Best: High volatility and risk",
+      "Explanation": "TSLA has a high RiskLevel due to its extreme VaR of 5.06%, high volatility of 50.6%, and a Beta of 2.71, indicating significant market risk, leading to the InvestmentAdvice of Not Best: High volatility and risk."
+    }
+  },
+  {
+    "symbol": "INTC",
+    "lastTradedTime": "2025-10-23 00:00:00-04:00",
+    "current_price": 38.15999984741211,
+    "pred_5d_price": 37.747684526769376,
+    "pred_10d_price": 32.095629640667205,
+    "news": [
+      "- Intel Stock Rises On Big Third-Quarter Earnings Beat ([link](https://finance.yahoo.com/m/1ed564d1-3d69-3125-9aec-13641bf3a966/intel-stock-rises-on-big.html))",
+      "- Intels Q3 results show signs of recovery  and restraint ([link](https://finance.yahoo.com/m/8da0a8e1-223a-39ca-82f1-b58a7a1d98ee/intel%E2%80%99s-q3-results-show-signs.html))",
+      "- Intel beats expectations as investments help in turnaround ([link](https://finance.yahoo.com/news/intel-beats-expectations-investments-help-204905895.html))",
+      "- Intel stock jumps as Q3 earnings beat expectations, AI drives chip demand ([link](https://finance.yahoo.com/news/intel-stock-jumps-as-q3-earnings-beat-expectations-ai-drives-chip-demand-201344592.html))",
+      "- Intel posts profit even as it struggles to regain market share ([link](https://finance.yahoo.com/news/intel-posts-profit-even-struggles-204048976.html))"
+    ],
+    "risk": {
+      "VaR1d95": 4.57,
+      "Volatility": 56.5,
+      "Beta": 1.26,
+      "RiskScore": 0.72,
+      "RiskLevel": "High",
+      "InvestmentAdvice": "Not Best: High volatility and risk",
+      "Explanation": "INTC has a High RiskLevel with a VaR of 4.57%, high volatility of 56.5%, and a Beta of 1.26, suggesting significant risk, leading to the InvestmentAdvice of Not Best: High volatility and risk."
+    }
+  }
+]
