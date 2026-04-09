@@ -1,0 +1,92 @@
+{
+  "TSLA": {
+    "VaR1d95": 5.06,
+    "Volatility": 50.6,
+    "Beta": 2.71,
+    "RiskScore": 0.86,
+    "RiskLevel": "High",
+    "InvestmentAdvice": "Not Best: High volatility and risk",
+    "Explanation": "TSLA has a high RiskLevel due to its extreme VaR of 5.06%, high volatility of 50.6%, and a Beta of 2.71, indicating significant market risk, leading to the InvestmentAdvice of Not Best: High volatility and risk."
+  },
+  "TSM": {
+    "VaR1d95": 4.61,
+    "Volatility": 47.5,
+    "Beta": 2.68,
+    "RiskScore": 0.77,
+    "RiskLevel": "High",
+    "InvestmentAdvice": "Not Best: High volatility and risk",
+    "Explanation": "TSM's RiskLevel is High with a VaR of 4.61%, a volatility of 47.5%, and a Beta of 2.68, reflecting substantial risk exposure, hence the InvestmentAdvice of Not Best: High volatility and risk."
+  },
+  "ORCL": {
+    "VaR1d95": 5.73,
+    "Volatility": 48.9,
+    "Beta": 0.76,
+    "RiskScore": 0.77,
+    "RiskLevel": "High",
+    "InvestmentAdvice": "Not Best: High volatility and risk",
+    "Explanation": "ORCL's RiskLevel is High due to a VaR of 5.73%, a volatility of 48.9%, and a Beta of 0.76, indicating high risk despite lower market correlation, resulting in the InvestmentAdvice of Not Best: High volatility and risk."
+  },
+  "INTC": {
+    "VaR1d95": 4.57,
+    "Volatility": 56.5,
+    "Beta": 1.26,
+    "RiskScore": 0.72,
+    "RiskLevel": "High",
+    "InvestmentAdvice": "Not Best: High volatility and risk",
+    "Explanation": "INTC has a High RiskLevel with a VaR of 4.57%, high volatility of 56.5%, and a Beta of 1.26, suggesting significant risk, leading to the InvestmentAdvice of Not Best: High volatility and risk."
+  },
+  "NKE": {
+    "VaR1d95": 3.85,
+    "Volatility": 36.3,
+    "Beta": 1.71,
+    "RiskScore": 0.49,
+    "RiskLevel": "High",
+    "InvestmentAdvice": "Not Best: High volatility and risk",
+    "Explanation": "NKE's RiskLevel is High with a VaR of 3.85%, a volatility of 36.3%, and a Beta of 1.71, indicating considerable risk, hence the InvestmentAdvice of Not Best: High volatility and risk."
+  },
+  "CRM": {
+    "VaR1d95": 3.77,
+    "Volatility": 37.5,
+    "Beta": 0.97,
+    "RiskScore": 0.43,
+    "RiskLevel": "High",
+    "InvestmentAdvice": "Not Best: High volatility and risk",
+    "Explanation": "CRM has a High RiskLevel due to a VaR of 3.77%, a volatility of 37.5%, and a Beta of 0.97, reflecting high risk exposure, resulting in the InvestmentAdvice of Not Best: High volatility and risk."
+  },
+  "SONY": {
+    "VaR1d95": 3.33,
+    "Volatility": 30.8,
+    "Beta": 1.48,
+    "RiskScore": 0.36,
+    "RiskLevel": "High",
+    "InvestmentAdvice": "Not Best: High volatility and risk",
+    "Explanation": "SONY's RiskLevel is High with a VaR of 3.33%, a volatility of 30.8%, and a Beta of 1.48, indicating significant risk, leading to the InvestmentAdvice of Not Best: High volatility and risk."
+  },
+  "ABBV": {
+    "VaR1d95": 2.83,
+    "Volatility": 28.4,
+    "Beta": 0.35,
+    "RiskScore": 0.17,
+    "RiskLevel": "Medium",
+    "InvestmentAdvice": "Best for moderate-risk portfolios",
+    "Explanation": "ABBV has a Medium RiskLevel with a VaR of 2.83%, a lower volatility of 28.4%, and a Beta of 0.35, suggesting moderate risk, making it Best for moderate-risk portfolios."
+  },
+  "AAPL": {
+    "VaR1d95": 2.28,
+    "Volatility": 22.6,
+    "Beta": 1.25,
+    "RiskScore": 0.13,
+    "RiskLevel": "Medium",
+    "InvestmentAdvice": "Best for moderate-risk portfolios",
+    "Explanation": "AAPL's Medium RiskLevel is supported by a VaR of 2.28%, a low volatility of 22.6%, and a Beta of 1.25, indicating moderate risk, hence the InvestmentAdvice of Best for moderate-risk portfolios."
+  },
+  "SAP": {
+    "VaR1d95": 1.99,
+    "Volatility": 21.3,
+    "Beta": 1.41,
+    "RiskScore": 0.09,
+    "RiskLevel": "Low",
+    "InvestmentAdvice": "Best: Low volatility and risk",
+    "Explanation": "SAP has a Low RiskLevel with a VaR of 1.99%, a very low volatility of 21.3%, and a Beta of 1.41, indicating low risk, resulting in the InvestmentAdvice of Best: Low volatility and risk."
+  }
+}

@@ -1,0 +1,16 @@
+streamlit
+openai>=1.40.0
+chromadb>=0.5.5
+pypdf
+pdfplumber
+python-docx
+python-pptx
+openpyxl
+pandas
+tiktoken
+python-dotenv
+beautifulsoup4
+lxml
+pytesseract
+Pillow
+requests
